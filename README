@@ -1,0 +1,5 @@
+This repository contains code for a machine learning project in the course ASTRO9506S at Western University in the 2023 winter semester.
+
+The main python script for the code is AML_Project_Halines.py.
+Halpha_line_sorting2.py prepares the data for use in the machine learning algorithm.
+tools.py contains necessary small functions to deal with the data.
